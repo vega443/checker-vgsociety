@@ -13,3 +13,4 @@
 - `tokens.txt` :: 1 token par ligne
 - `proxies.txt` :: 1 proxy par ligne (`ip:port`)
 - `hits.txt` :: usernames trouves
+![Preview de l'interface](checker.png)
