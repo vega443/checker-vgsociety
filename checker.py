@@ -120,7 +120,7 @@ def title_updater():
         with tokens_lock:
             active = len(valid_tokens)
         title = (
-            f"[ Vega Elite :: ] Hits: {hits} | RL: {rl} | ERR: {err} "
+            f"[ vgsociety :: ] Hits: {hits} | RL: {rl} | ERR: {err} "
             f"| CPM: {int(cpm)} | Tokens: {active}/{len(TOKENS)}"
         )
         if os.name == "nt":
